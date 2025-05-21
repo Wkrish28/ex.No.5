@@ -182,6 +182,7 @@ export default App;
 
 ```
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/8dbae52b-c1ce-412d-bebb-b6251ccf99ec)
 
 
 ## RESULT
